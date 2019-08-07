@@ -1,6 +1,7 @@
 # Data-Mining-The-Water-Table-Springboard-Capstone-1
 A repository for the first capstone project of the Springboard.com data science career track
 
+### Introduction
 Many rural communities around the world (especially in developing countries) rely on
 water pumps as their main source of water. This includes water for drinking, cooking,
 cleaning, growing crops, and more. Obviously if a community's water pump fails, it can
@@ -14,7 +15,7 @@ need of repair, or non functional.
 This project is part of a data science competition hosted by DrivenData.org, a non-profit 
 organization which hosts competitions that have a social impact. It was submitted as the first capstone project of the Springboard curriculum.
 
-## Contents
+### Contents
 In this repository, you will find the following files:
 * **Data:** a folder containing all the data sets required for the project
 * **DataMiningWaterTable_Capstone1_FinalReport.pdf:** A PDF of the final report on the project

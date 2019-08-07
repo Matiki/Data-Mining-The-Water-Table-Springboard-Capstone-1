@@ -12,5 +12,11 @@ predictions on which water pumps in rural Tanzania are functional, functional bu
 need of repair, or non functional.
 
 This project is part of a data science competition hosted by DrivenData.org, a non-profit 
-organization which hosts competitions that have a social impact.
+organization which hosts competitions that have a social impact. It was submitted as the first capstone project of the Springboard curriculum.
 
+## Contents
+In this repository, you will find the following files:
+* **Data:** a folder containing all the data sets required for the project
+* **DataMiningWaterTable_Capstone1_FinalReport.pdf:** A PDF of the final report on the project
+* **DataMiningWaterTable_Presentation.pdf:** A short slide presentation highlighting the important points of the project
+* **code.ipynb:** A jupyter notebook containing all the code necessary to run the whole project from beginning to end
